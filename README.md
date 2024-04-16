@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raphael Mardine!</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphaelmardine" alt="raphaelmardine" /></a> </p>
-
 - 🔭 I’m currently working on **V4 Company**
 
 - 🌱 I’m currently learning **Back-end, Serverless Lambda and Architectures for Front-End**
