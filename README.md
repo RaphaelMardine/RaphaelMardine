@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **raphael.mardine@v4company.com**
 
-- ⚡ Fun fact **I disapprove Angular framework for everything :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
